@@ -14,6 +14,7 @@ All chips and programs were implemented and tested using the
 - [`projects/03`](projects/03) — Sequential Logic
 - [`projects/04`](projects/04) — Machine Language
 - [`projects/05`](projects/05) — Computer Architecture
+- [`projects/06`](projects/06) — Assembler
 
 ## Source
 
