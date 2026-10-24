@@ -16,6 +16,7 @@ All chips and programs were implemented and tested using the
 - [`projects/05`](projects/05) — Computer Architecture
 - [`projects/06`](projects/06) — Assembler
 - [`projects/07`](projects/07) — VM Translator I: Stack Arithmetic
+- [`projects/08`](projects/08) — VM Translator II: Program Control
 
 ## Source
 

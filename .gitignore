@@ -2,5 +2,6 @@
 __pycache__/
 *.hack
 projects/07/programs/**/*.asm
+projects/08/programs/**/*.asm
 *.out
 *.cmp
